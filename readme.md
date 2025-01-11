@@ -76,7 +76,7 @@ This project conducts an **Exploratory Data Analysis (EDA)** on gym members' bod
 ## 📜 How to Use
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/MikelTelo/eda_for_gym_owners_members.git>
    cd eda-gym-analysis
 
 
